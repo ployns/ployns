@@ -14,8 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ployns&show_icons=true&theme=radical&locale=en" alt="ployns" /></p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ployns&show_icons=true&theme=dark&locale=en&layout=compact" alt="ployns" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ployns&show_icons=true&theme=dark&title_color=fff700&text_color=ffffff&locale=en" alt="ployns" /></p>
